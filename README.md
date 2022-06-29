@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maddtec
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @adith
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning full stack web development from colt steele
 - 📫 How to reach me???
-- easy mailme 
+- easy mailto adithprakash008@gmail.com
 
 <!---
 maddtec/maddtec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
